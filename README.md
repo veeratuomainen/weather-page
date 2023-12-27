@@ -1,6 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/D_drWJKh)
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/D_drWJKh)
-# Final Project
-IoT and Web Development
+This is the final project I did for IoT & Web programming course. It is made with HTML, CSS and JavaScript. 
 
-Follow the project instructions in Dropbox.
+This program is getting data from my school's small weather station and presents it on a website. Latest values page presents 50 of the latest values. Temperature
+page presents 20 of the latest temperature values in a graph and also statistics such as mean and median. Humidity page presents the same data but with humidity values.
