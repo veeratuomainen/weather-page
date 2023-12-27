@@ -1,0 +1,64 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+.container {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+/* navigation */
+
+.navbar {
+    background-color: #000;
+}
+.nav-link, .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+    padding-left: 1.5em;
+}
+.nav-link:hover, .navbar-brand:hover {
+    color: #5c5c5c;
+}
+.navbar-collapse {
+    justify-content: flex-start;
+}
+
+/* tables */
+table {
+    width: 100%;
+    text-align: left;
+}
+.info-table {
+    width: 50%;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.view1-table {
+    width: 100%;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+/* charts */
+.info-chart {
+    width: 50%;
+}
+
+/* box */
+.info-box {
+    background-color: darkgray;
+    width: 100%;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    border-radius: 1em;
+    padding: 1em 2em;
+}
+.info-box th, .info-box td {
+    font-size: 1.3em;
+}
